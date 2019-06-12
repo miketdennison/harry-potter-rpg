@@ -3,3 +3,37 @@ body {
     background-repeat: no-repeat;
     background-size: auto;
 }
+
+.character-img {
+    height: auto;
+    width: 100%;
+}
+
+.char-card {
+    padding: 0 0 .25rem 0;
+    margin: 0;
+    color: white;
+    font-weight: 900;
+}
+
+.hp-card {
+    padding: 0;
+    margin: 0;
+    color: crimson;
+    font-weight: 400;
+}
+
+.card {
+    padding: 0;
+    margin: 0;
+}
+
+.your-char {
+    position: relative;
+    right: 1%;
+    padding-left: 2.5%;
+    padding-right: 0;
+    margin-right: 0;
+    color: white;
+    background-color: indigo;
+}
